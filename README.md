@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 - 🔭 I’m currently working on **[My Portfolio](https://github.com/Azukakomai/Portfolio)**
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Product Management**
 - 📫 How to reach me: **mohammadazkakhairurrahman@gmail.com**
 
 ## 🌐 Connect With Me
