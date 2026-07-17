@@ -9,7 +9,7 @@
 ---
 
 ## 💫 About Me
-- 🔭 I’m currently working on **[My Portfolio](https://github.com/Azukakomai/Portfolio)**
+- 🔭 I’m currently working on **[Budgt](https://github.com/Azukakomai/Portfolio)** a finance management app
 - 🌱 I’m currently learning **Product Management**
 - 📫 How to reach me: **mohammadazkakhairurrahman@gmail.com**
 
