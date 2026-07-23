@@ -4,13 +4,12 @@
     <img src="https://komarev.com/ghpvc/?username=azukakomai&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
-<h3 align="center">Aspiring Software & Data Engineer</h3>
+<h3 align="center">Aspiring Software & AI Engineer</h3>
 
 ---
 
 ## 💫 About Me
-- 🔭 I’m currently working on **[Budgt](https://github.com/Azukakomai/Portfolio)** a finance management app
-- 🌱 I’m currently learning **Product Management**
+- 🔭 I’m currently working on **[Mudlogging]([https://github.com/Azukakomai/Portfolio](https://github.com/Azukakomai/Mudlogging))** My thesis
 - 📫 How to reach me: **mohammadazkakhairurrahman@gmail.com**
 
 ## 🌐 Connect With Me
